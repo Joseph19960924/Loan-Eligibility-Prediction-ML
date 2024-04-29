@@ -1,9 +1,5 @@
 # Loan-Eligibility-Prediction-ML
-# Loan Eligibility Prediction System
 
-![Project Image](project_image.png)
-
-> A machine learning project to predict loan eligibility for Dream Housing Finance company.
 
 ---
 
