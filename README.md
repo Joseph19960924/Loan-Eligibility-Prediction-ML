@@ -8,7 +8,6 @@
 - [About](#about)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Models](#models)
 - [Results](#results)
 - [Contributing](#contributing)
