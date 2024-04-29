@@ -58,15 +58,7 @@ The dataset is sourced from Kaggle: [Loan Prediction Dataset](https://www.kaggle
 
 ---
 
-## Usage
 
-1. Navigate to the project directory:
-    ```bash
-    cd Loan-Eligibility-Prediction-ML
-    ```
-2. Run the main script to train and evaluate the models:
-    ```bash
-    python main.py
     ```
 
 ---
